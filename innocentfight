@@ -1,0 +1,26 @@
+.innocentfight {
+  margin: 0px auto;
+  width: 450px;
+  
+}
+.fightfirst { border-bottom: solid 2px #f10908;
+  border-left: solid 7px #f10908;
+font: 16px 'Fugaz One';
+  margin: 0px auto;
+    width: fit-content;
+    height: fit-content;
+  background: black;
+  padding: 10px;
+    text-align: center;
+
+}
+.fightfirst em {
+  content:'icon-unicode';
+font-family:'cappuccicons';
+color: #f10908;}
+.fightfirst a{text-decoration: none; color: white;}
+.fightnauncer { font: 16px 'Fugaz One';
+    border-bottom: dotted 1px #f10908;
+  text-align: center;
+}
+
